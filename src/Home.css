@@ -1,0 +1,19 @@
+.home {
+    width: 100%;
+    margin: 0;
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading {
+    padding: 10px 15px;
+    color: navy;
+}
+
+.linkHome {
+    color: navy;
+    text-decoration: none;
+    margin: 20px;
+}

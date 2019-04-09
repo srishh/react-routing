@@ -1,0 +1,17 @@
+.login {
+    text-align: center;
+    margin: auto 35%;
+}
+
+input {
+    width: 100%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid lightsteelblue;
+    border-radius: 5px;
+}
+
+.btn {
+    background: linear-gradient(white, lightsteelblue);
+    width: 200px;
+}
